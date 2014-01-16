@@ -1,0 +1,6 @@
+# a comment line
+# ignore all files ending in o or a
+*.[oa]
+*~
+
+
